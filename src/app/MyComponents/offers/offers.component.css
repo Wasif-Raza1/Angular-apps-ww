@@ -1,0 +1,27 @@
+
+.offer1{
+    line-height: 16px;
+}
+.offer-contant p{
+    font-size: 14px;
+    line-height: 14px;
+    margin-bottom: 7px;
+}
+.btn-whishlist{
+    background-color: #fff;
+    border:2px solid #E36727;
+    border-radius: 0;
+    color: #E36727;
+    font-weight: 600;
+}
+.btn-enquire{
+    background-color: #E36727;
+    border:2px solid #E36727;
+    border-radius: 0;
+    font-weight: 600;
+}
+
+.rated-button{
+    background-color:#7ed11f;
+    font-size: 14px;
+}

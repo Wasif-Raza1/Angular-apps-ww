@@ -1,0 +1,103 @@
+@import "~ng-zorro-antd/ng-zorro-antd.min.css";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.listing-body h5{
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 900;
+    margin-top: 15px;
+}
+.form-check-input{
+    border: 2px solid rgba(99, 97, 97, 0.473);
+    border-radius: 3px !important;
+    font-size: 18px !important;
+}
+.form-check-input:focus{
+    border: none;
+    outline: none;
+}
+.form-check-input:visited{
+    background: #E36727;
+}
+.form-check-label{
+    color:rgba(99, 97, 97, 0.493) ;
+    font-size: 14px;
+    font-weight: 600;
+}
+.more-option a{
+    text-decoration: none;
+    color: #E36727;
+    text-align: center;
+    font-weight: 600;
+    font-size: 14px;
+}
+.offers{
+    border-left: 1px solid #3332322c ;
+}
+
+
+.feature-rated-button{
+    background-color:#61AB0F;
+    font-size: 14px;
+    left: 64%;
+}
+.feature-rated-button1{
+    background-color:#EECA11;
+    font-size: 14px;
+    left: 65%;
+}
+.feature-border{
+    border: 1px solid #66666641;
+}
+.feature-card{
+    line-height: 10px !important;
+}
+.feature-card a{
+    text-decoration: none;
+    color: #2e2e2eb0;
+    font-size: 12px;
+    font-weight: 700;
+}
+.feature-card h5{
+    padding-top: 4px;
+    font-size: 16px;
+    font-weight: 900;
+}
+.feature-card p{
+    font-size: 12px;
+    margin-bottom: 6px;
+}
+.footer-section {
+    background-color: #15171a;
+}
+
+.after-p {
+    font-size: 14px;
+}
+
+.footer-section a {
+    text-decoration: none;
+    color: #858586 !important;
+    font-size: 14px;
+}
+
+.person1 {
+    width: 130px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.person2 {
+    width: 110px;
+    height: 80px;
+    border-radius: 50%;
+    filter: blur(1px);
+}
+
+.footer .mx-auto {
+    line-height: 12px;
+}
